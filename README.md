@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 I'm Hyebin 😺
+
+🐈 I LOVE CAT
+
+🙌 BIO
+- Bachelor - IT Engineering at SMWU (2013 ~ 2017)
+- Ph.D.    - IT Engineering at SMWU (2017 ~ 2022)
+- Postdoc  - ETRI (2022 ~)
+
+⚡ Experience
 
 <!--
 **hyeb1n/hyeb1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
