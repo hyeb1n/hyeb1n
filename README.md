@@ -1,11 +1,14 @@
 ### Hi 👋 I'm Hyebin 😺
 
 🐈 I LOVE CAT
+🐈‍⬛
 
 🙌 BIO
-- Bachelor - IT Engineering at SMWU (2013 ~ 2017)
-- Ph.D.    - IT Engineering at SMWU (2017 ~ 2022)
 - Postdoc  - ETRI (2022 ~)
+- Ph.D.    - IT Engineering at SMWU (2017 ~ 2022)
+- Bachelor - IT Engineering at SMWU (2013 ~ 2017)
+
+
 
 ⚡ Experience
 
