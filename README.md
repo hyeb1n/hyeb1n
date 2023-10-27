@@ -12,7 +12,8 @@
                           
 
 🙌 BIO
-- Postdoc  - ETRI (2022 ~)
+- Senior Researcher - LGE (2023 ~ )
+- Postdoc  - ETRI (2022 ~ 2023)
 - Ph.D.    - IT Engineering at SMWU (2017 ~ 2022)
 - Bachelor - IT Engineering at SMWU (2013 ~ 2017)
 
