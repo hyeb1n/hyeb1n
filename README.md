@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Hyebin 😺
 
-😸 I'm a Postdoctoral researcher at [ETRI](https://www.etri.re.kr/eng/main/main.etri).
+😸 I'm a senior researcher at LGE.
 
 😺 I received the Ph.D. degree at Sookmyung Women's University and was advised by Prof. [Yujin Lim](https://sites.google.com/site/yujin91/about-me?authuser=0) in the Sookmyung Intelligent System  Lab(sisLab).
 
