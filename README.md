@@ -6,8 +6,10 @@
 
 
 
-📑 I've researched AI with networks and communications, including Reinforcement Learning, time series data Prediction, Federated Learning, 5G, and 6G.
-
+📑 I've researched AI with networks and communications, including Reinforcement Learning, Timeseries data Prediction, Federated Learning, 5G, and 6G.
+📑 Main task (in LGE) : Developing the AI engine contests
+                          - Cooling/heating load prediction for saving energy consumption in HVAC
+                          - Developing irtual sensing and fault diagnosis algorithms in HVAC
 
                           
 
